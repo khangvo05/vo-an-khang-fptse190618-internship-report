@@ -1,36 +1,26 @@
 ---
-title: "Worklog Tuần 2"
-weight: 1
+title: "Nhật ký công việc Tuần 2"
+weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-### Mục tiêu tuần 2:
+### Mục tiêu Tuần 2:
+* Nắm vững các kỹ năng cơ bản về dòng lệnh Linux cần thiết cho EC2 và các thiết bị IoT.
+* Học các kiến thức cơ bản về Python cho các Lambda function và scripting.
+* Hiểu các nguyên tắc cơ bản của Quản lý Danh tính và Truy cập AWS (IAM).
 
-* Xem các video trong chuỗi First Cloud Journey Bootcamp - 2025 trên Youtube từ Module 3 đến hết Module 4.
+### Các nhiệm vụ thực hiện trong tuần này:
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2   | - Xem video **lý thuyết** về **<i>Cơ bản về Linux (Linux Basics)</i>** <br> - **Thực hành:** <br>&emsp; + Kết nối với EC2 instance qua SSH <br>&emsp; + Thực hành điều hướng file (ls, cd, pwd) và quyền (chmod, chown) | 09/15/2025 | 09/15/2025 | <https://www.udemy.com/course/linux-mastery/> <br> |
+| 3   | - Xem video **lý thuyết** về **<i>Python cho người mới bắt đầu (Python for Beginners)</i>** <br> - **Thực hành:** <br>&emsp; + Viết một script để in "Hello World" <br>&emsp; + Tạo một script máy tính đơn giản sử dụng functions | 09/16/2025 | 09/16/2025 | <https://www.coursera.org/programs/fptu-fall-2025-zmahp/specializations/python> |
+| 4   | - Xem video **<i>Module 5 (IAM)</i>** <br> - **Thực hành:** <br>&emsp; + Tạo IAM Users và Groups <br>&emsp; + Tạo một IAM Policy tùy chỉnh | 09/17/2025 | 09/17/2025 | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> |
+| 5   | - Xem video **lý thuyết** về **<i>Nguyên tắc cơ bản của JSON (JSON Fundamentals)</i>** (Cần thiết cho IAM Policies) <br> - **Thực hành:** <br>&emsp; + Viết một JSON object đại diện cho một Smart Lightbulb <br>&emsp; + Xác thực cú pháp JSON trực tuyến | 09/18/2025 | 09/18/2025 | <https://www.w3schools.com/js/js_json_intro.asp> |
+| 6   | - Xem lại các khái niệm **<i>IAM Roles</i>** <br> - Học cơ bản về **Amazon RDS** <br> - **Thực hành:** <br>&emsp; + Tạo một IAM Role để cho phép EC2 instance truy cập S3 (Lab 5) <br>&emsp; + Tạo RDS database instance| 09/19/2025 | 09/19/2025 | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000005.awsstudygroup.com/> |
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                                                                                                                                                   |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | - Xem các video **lý thuyết** **<i>Module 3</i>** - Xem các video, đọc tài liệu phần **<i>Lab 13</i>** và **<i>Lab 24</i>** <br> - **Thực hành:** <br>&emsp; + Tạo và kiểm thử vận hành của Backup Plan <br>&emsp; + Tạo và kết nối Storage Gateway với môi trường on-premise thông qua file share          | 15/09/2025   | 15/09/2025      | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000013.awsstudygroup.com/vi> <br> <https://000024.awsstudygroup.com/vi> |
-| 3   | - Xem các video, đọc tài liệu phần **<i>Lab 57</i>** <br> - **Thực hành:** <br>&emsp; + Tạo và cấu hình S3 Bucket <br>&emsp; + Host một website tĩnh với S3 và thông qua CloudFront <br>&emsp; + Cấu hình Bucket Versioning, di chuyển object giữa các Bucket, nhân bản object giữa các Bucket khác khu vực | 16/09/2025   | 16/09/2025      | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000057.awsstudygroup.com/vi>                                            |
-| 4   | - Xem các video **lý thuyết** **<i>Module 4</i>** <br> - Xem các video, đọc tài liệu phần **<i>Lab 14</i>** <br> - **Thực hành:** <br>&emsp; + Đưa một máy ảo lên AWS <br>&emsp; + Triển khai một Instance từ AMI <br>&emsp; + Xuất một máy ảo từ một Instance                                              | 17/09/2025   | 17/09/2025      | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000014.awsstudygroup.com/vi>                                            |
-| 5   | - Xem các video, đọc tài liệu phần **<i>Lab 25</i>** <br> - **Thực hành:** <br>&emsp; + Tạo một hệ thống tệp SSD/HDD đa vùng và cấu hình File Share <br>&emsp; + Thực hiện một vài chức năng File Share thông qua Remote Desktop                                                                            | 18/09/2025   | 18/09/2025      | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000025.awsstudygroup.com/vi>                                            |
-| 6   | - Học Coursera khóa Understanding Research Methods và Research Methodologies                                                                                                                                                                                                                                | 19/09/2025   | 20/09/2025      | <https://www.coursera.org/learn/research-methods> <br> https://www.coursera.org/learn/research-methodologies                                                     |
-
-
-### Kết quả đạt được tuần 2:
-
-* Biết cách tạo một Backup Plan
-* Biết cách tạo một Storage Gateway và cấu hình File Share
-* Biết cách tạo và cấu hình S3 Bucket
-* Biết cách host một website tĩnh với S3 và thông qua CloudFront
-* Thực hành một vài chức năng của S3 Bucket:
-  * Bucket versioning
-  * Move object 
-  * Replicate object 
-* Biết cách nhập/xuất máy ảo 
-* Biết cách triển khai một Instance từ AMI
-* Biết cách thực hiện một vài chức năng trên File Share của hệ thống tệp SSD/HDD đa vùng thông qua CLI trên Remote Desktop
-
-
+### Thành tựu Tuần 2:
+* Đã điều hướng hệ thống file Linux và quản lý quyền trên EC2.
+* Đã viết các Python script cơ bản sử dụng variables và functions.
+* Đã tạo IAM Users, Groups và custom JSON Policies an toàn.
+* Đã đính kèm IAM Roles vào EC2 instances để truy cập an toàn.

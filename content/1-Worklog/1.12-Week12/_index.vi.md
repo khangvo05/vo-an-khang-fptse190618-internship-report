@@ -1,26 +1,22 @@
 ---
-title: "Worklog Tuần 12"
-weight: 2
+title: "Nhật ký công việc Tuần 12"
+weight: 12
 chapter: false
-pre: " <b> 1.12 </b> "
+pre: " <b> 1.12. </b> "
 ---
 
-### Mục tiêu tuần 12:
+### Mục tiêu Tuần 12:
+* **Cải thiện kỹ năng Coursera** (Improve coursera skill).
+* **Ứng dụng Kỹ năng:** Nắm vững thao tác file (**file manipulation**), quyền (**permissions**), và **piping**.
 
-* 
+### Các nhiệm vụ thực hiện trong tuần này:
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| --- | --- | --- | --- | --- |
+| 2   | - **Khóa học:** Module 1 (Giới thiệu về **Linux**) | 11/24/2025 | 11/24/2025 | <https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting> |
+| 3   | - **Khóa học:** Module 2 (Giới thiệu về **Linux Commands**) | 11/25/2025 | 11/25/2025 | <https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting> |
+| 4   | - **Khóa học:** Module 3 (Giới thiệu về **Shell Scripting**) | 11/26/2025 | 11/26/2025 | <https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting> |
+| 5   | - **Khóa học:** Module 5 (Dự án Cuối khóa và Bài thi Cuối khóa) | 11/27/2025 | 11/27/2025 | <https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting> |
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
-
-### Kết quả đạt được tuần 12:
-
-* 
-
-
+### Kết quả Tuần 12:
+* Hoàn thành khóa học "**Hands-on Introduction to Linux Commands and Shell Scripting**" trên **Coursera**.
+* Có kiến thức vững chắc về **Linux** và **Shell Scripting**.
