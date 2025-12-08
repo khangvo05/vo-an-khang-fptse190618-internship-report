@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-# Nền tảng IoT Văn phòng Thông minh không máy chủ
+# Platform IoT Văn phòng Thông minh Serverless
 
 #### Tổng quan
 
