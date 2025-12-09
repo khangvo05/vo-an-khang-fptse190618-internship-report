@@ -9,7 +9,7 @@ Trong quá trình thực tập tại **CÔNG TY CỔ PHẦN AMAZON WEB SERVICES 
 
 Đội của tôi và tôi đã bắt đầu **Dự án Smart Office**. Từ dự án này, tôi hiểu rõ hơn về cơ bản của nhiều dịch vụ AWS như **Event Bridge**, **Lambda**, **SNS** và **IoT Core**, cũng như có được sự hiểu biết tốt về quy trình làm việc của kiến trúc AWS. Những kiến thức này sẽ giúp tôi rất nhiều trong những nỗ lực tương lai của mình.
 
-Trong dự án, tôi cố gắng hoàn thành nhiệm vụ của mình một cách tận tâm, đồng thời đưa bản thân vào lãnh địa chưa khám phá bằng cách học cách sử dụng các tính năng nâng cao hơn của một số dịch vụ AWS, chẳng hạn như **Fleet Provisioning** của **AWS IoT Core**.
+Trong dự án, tôi cố gắng hoàn thành nhiệm vụ của mình một cách tận tâm, đồng thời đưa bản thân vào tâm thế học hỏi bằng cách học cách sử dụng các tính năng nâng cao hơn của một số dịch vụ AWS, chẳng hạn như **Fleet Provisioning** của **AWS IoT Core**.
 
 Để phản ánh khách quan về thời gian thực tập của mình, tôi muốn đánh giá bản thân dựa trên các tiêu chí sau:
 
@@ -28,7 +28,7 @@ Trong dự án, tôi cố gắng hoàn thành nhiệm vụ của mình một cá
 | 11  | **Đóng góp cho dự án/nhóm**       | Hiệu quả công việc, ý tưởng sáng tạo, được công nhân từ nhóm                                    | ☐    | ✅   | ☐        |
 | 12  | **Tổng thể**                      | Đánh giá chung về toàn bộ khoảng thời gian thực tập                                              | ☐    | ✅   | ☐        |
 
-### Những lĩnh vực cần cải thiện
+### Những thứ cần cải thiện
 
 * Cần kỷ luật hơn
 * Cải thiện sự hiểu biết về front-end và quy trình luồng của kiến trúc đám mây.
