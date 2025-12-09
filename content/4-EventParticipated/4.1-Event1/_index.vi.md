@@ -70,7 +70,7 @@ Các giảng viên đã trình diễn một chatbot được hỗ trợ bởi RA
 3. Suy luận mô hình với guardrails được áp dụng
 4. Tạo ra phản hồi thời gian thực
 
-## Suy tư cá nhân
+## SUY NGHĨ CÁ NHÂN
 
 ### Những gì tôi đã học
 

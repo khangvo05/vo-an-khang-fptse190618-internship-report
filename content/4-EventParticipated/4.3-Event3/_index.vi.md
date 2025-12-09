@@ -1,5 +1,5 @@
 ---
-title: "Event 3"
+title: "Sự kiện 3"
 weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
@@ -17,7 +17,6 @@ pre: " <b> 4.3. </b> "
 
 Workshop thứ ba và cuối cùng trong AWS Cloud Mastery Series tập trung vào bảo mật đám mây thông qua lăng kính Security Pillar của AWS Well-Architected Framework. Phiên bán ngày bao gồm năm trụ cột chính: IAM, Detection, Infrastructure Protection, Data Protection, và Incident Response.
 
-## Phân tích phiên làm việc
 
 ### 8:30 – 8:50 AM | Mở cửa & Nền tảng bảo mật
 
@@ -190,7 +189,7 @@ Phiên bắt đầu với một cái nhìn tổng quan về vai trò của Secur
 - Lưu trữ bí mật trong mã hoặc tệp cấu hình
 - Bỏ qua các yêu cầu giữ lại nhật ký và tuân thủ
 
-## Suy tư cá nhân
+## SUY NGHĨ CÁ NHÂN
 
 ### Những gì tôi đã học
 
@@ -214,4 +213,4 @@ Sự nhấn mạnh vào ứng phó với sự cố đã gây ấn tượng mạn
 - Thiết lập khắc phục tự động cho các phát hiện bảo mật phổ biến
 - Triển khai mã hóa tại chỗ cho tất cả các cơ sở dữ liệu và bộ chứa S3
 
-> Workshop bảo mật nửa ngày này cung cấp một cái nhìn tổng quan chiến lược về AWS Well-Architected Security Pillar và các khuôn khổ ứng phó với sự cố thực tế. Sự nhấn mạnh vào tự động hóa, phát hiện và playbooks sự cố sẽ trực tiếp cải thiện tư thế bảo mật của tổ chức chúng tôi.
+> Workshop bảo mật này cung cấp một cái nhìn tổng quan chiến lược về AWS Well-Architected Security Pillar và các khuôn khổ ứng phó với sự cố thực tế. Sự nhấn mạnh vào tự động hóa, phát hiện và playbooks sự cố sẽ trực tiếp cải thiện tư thế bảo mật của tổ chức chúng tôi.

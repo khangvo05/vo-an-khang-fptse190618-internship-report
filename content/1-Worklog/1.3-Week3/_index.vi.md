@@ -19,7 +19,7 @@ pre: " <b> 1.3. </b> "
 | 5   | - Học về **<i>Cơ sở dữ liệu (DynamoDB)</i>** <br> - **Thực hành:** <br>&emsp; + Tạo một bảng DynamoDB đơn giản (Lab 60) <br>&emsp; + Thêm các item vào bảng thủ công | 09/25/2025 | 09/25/2025 | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000060.awsstudygroup.com/vi/> |
 | 6   | - Xem lại **<i>Các Protocol Mạng</i>** (HTTP vs MQTT) <br> - **Thực hành:** <br>&emsp; + Nghiên cứu các kiến thức cơ bản về protocol MQTT (thiết yếu cho IoT) | 09/26/2025 | 09/26/2025 | <https://mqtt.org/> <br>  |
 
-### Thành tựu Tuần 3:
+### Kết quả Tuần 3:
 * Đã chạy thành công các ứng dụng Node.js cơ bản.
 * Đã quản lý các S3 bucket với các chính sách Versioning và Lifecycle.
 * Đã tạo và điền dữ liệu vào một bảng DynamoDB NoSQL.

@@ -5,9 +5,8 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-## Comprehensive Internship Worklog Overview
+## Internship Worklog Overview
 
-A 13-week AWS internship at **AMAZON WEB SERVICES VIETNAM COMPANY LIMITED** (06/08/2025 - 12/24/2025) covering foundational AWS services (Weeks 1-5), core AWS concepts (Weeks 6-8), and Smart Office IoT project implementation with IoT Core, EventBridge, Lambda, and real-time data processing (Weeks 9-13).
 
 ---
 

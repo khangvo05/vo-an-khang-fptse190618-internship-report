@@ -6,7 +6,7 @@ pre: " <b> 1.6. </b> "
 ---
 
 ### Mục tiêu Tuần 6:
-* **KHỞI ĐỘNG DỰ ÁN: Smart Office IoT**
+* **KHỞI ĐỘNG DỰ ÁN: Test IoT**
 * Thiết lập Môi trường **AWS IoT Core**.
 * Đăng ký **IoT Things** (Thiết bị mô phỏng - Simulated Devices).
 
@@ -20,6 +20,7 @@ pre: " <b> 1.6. </b> "
 | 6   | - **Dự án:** Tài liệu hóa (**Documentation**) <br> - **Thực hành:** <br>&emsp; + Ghi lại **Thing ARN** và **Certificate ID** trong ghi chú dự án | 10/17/2025 | 10/17/2025 | |
 
 ### Kết quả Tuần 6:
+- Test thành công những điều sau: 
 * Đã khởi tạo thành công môi trường **AWS IoT Core**.
 * Đã đăng ký **"Thing"** đại diện cho các **sensor** văn phòng.
 * Đã tạo và đính kèm các **IoT Policies** bảo mật.

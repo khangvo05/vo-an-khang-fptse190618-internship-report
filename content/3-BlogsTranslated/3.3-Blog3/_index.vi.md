@@ -139,11 +139,17 @@ TAGS: [AWS Systems Manager](https://aws.amazon.com/blogs/mt/tag/aws-system-manag
 
 **Chetan Makvana**
 
+![Chetan Makvana](/images/blog-3/Chetan-Makvana.jpeg)
+
 Chetan Makvana là Kiến trúc sư Giải pháp Doanh nghiệp (Enterprise Solutions Architect) tại Amazon Web Services. Anh hỗ trợ các khách hàng doanh nghiệp thiết kế những giải pháp cấp doanh nghiệp (enterprise grade) có khả năng mở rộng (scalable), ổn định (resilient), bảo mật (secured) và hiệu quả về chi phí (cost effective) bằng cách sử dụng các dịch vụ của AWS. Anh là người đam mê công nghệ và là một "builder" (người kiến tạo), với các lĩnh vực quan tâm chính bao gồm AI tạo sinh (generative AI), serverless, hiện đại hóa ứng dụng (app modernization) và DevOps. Ngoài công việc, anh thích "cày phim" (binge-watching), du lịch và âm nhạc.
+
+![Anthony Verleysen](/images/blog-3/Anthony-Headshot.jpg)
 
 **Anthony Verleysen**
 
 Anthony Verleysen là Giám đốc Sản phẩm Kỹ thuật Cấp cao (Senior Product Manager – Technical) thuộc nhóm AWS Systems Manager. Anh chịu trách nhiệm quản lý sản phẩm cho Patch Manager và Distributor. Ngoài công việc, Anthony là một người đam mê chơi bóng đá và tennis.
+
+![Mark Brealey](/images/blog-3/brealeym.jpg)
 
 **Mark Brealey**
 

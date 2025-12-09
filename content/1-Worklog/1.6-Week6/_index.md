@@ -6,7 +6,7 @@ pre: " <b> 1.6. </b> "
 ---
 
 ### Week 6 Objectives:
-* **PROJECT START: Smart Office IoT**
+* **PROJECT START: Test IoT**
 * Set up AWS IoT Core Environment.
 * Register IoT Things (Simulated Devices).
 
@@ -20,6 +20,7 @@ pre: " <b> 1.6. </b> "
 | 6   | - **Project:** Documentation <br> - **Practice:** <br>&emsp; + Document the Thing ARN and Certificate IDs in project notes | 10/17/2025 | 10/17/2025 |  |
 
 ### Week 6 Achievements:
+- Successfully test the following thing:
 * Successfully initialized AWS IoT Core environment.
 * Registered "Thing" representation for office sensors.
 * Created and attached secure IoT Policies.

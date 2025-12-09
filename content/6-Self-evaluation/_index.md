@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **AMAZON WEB SERVICES VIETNAM COMPANY LIMITED** from **06/08/2025** to **12/24/2025**, I have learned so many things in the cloud domain and I felt grateful for all the time I spent in this program.
+During my internship at **AMAZON WEB SERVICES VIETNAM CO .LTD** from **06/08/2025** to **12/24/2025**, I have learned so many things in the cloud domain and I felt grateful for all the time I spent in this program.
 
 My team and I started **Smart Office Project**. From this project, I know more about the basic of many AWS Services such as **Event Bridge**, **Lambda**, **SNS** and **IoT Core**, as well as acquire a good grasp on the work flow of AWS architecture. Those knowledge will assist me strongly in my future endeavours.
 

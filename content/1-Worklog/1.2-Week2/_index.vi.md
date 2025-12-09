@@ -19,7 +19,7 @@ pre: " <b> 1.2. </b> "
 | 5   | - Xem video **lý thuyết** về **<i>Nguyên tắc cơ bản của JSON (JSON Fundamentals)</i>** (Cần thiết cho IAM Policies) <br> - **Thực hành:** <br>&emsp; + Viết một JSON object đại diện cho một Smart Lightbulb <br>&emsp; + Xác thực cú pháp JSON trực tuyến | 09/18/2025 | 09/18/2025 | <https://www.w3schools.com/js/js_json_intro.asp> |
 | 6   | - Xem lại các khái niệm **<i>IAM Roles</i>** <br> - Học cơ bản về **Amazon RDS** <br> - **Thực hành:** <br>&emsp; + Tạo một IAM Role để cho phép EC2 instance truy cập S3 (Lab 5) <br>&emsp; + Tạo RDS database instance| 09/19/2025 | 09/19/2025 | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://000005.awsstudygroup.com/> |
 
-### Thành tựu Tuần 2:
+### Kết quả Tuần 2:
 * Đã điều hướng hệ thống file Linux và quản lý quyền trên EC2.
 * Đã viết các Python script cơ bản sử dụng variables và functions.
 * Đã tạo IAM Users, Groups và custom JSON Policies an toàn.

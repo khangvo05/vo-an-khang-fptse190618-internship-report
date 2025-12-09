@@ -11,7 +11,7 @@ Phần này chứa ba bài dịch tinh lọc từ các bài blog AWS chuyên sâ
 
 ---
 
-### [Blog 1 - Phân tích Quản lý Rủi ro: Biến Không chắc chắn thành Cơ hội](3.1-Blog1/)
+### [Blog 1 - Phân tích dữ liệu trong quản lí rủi ro: Biến bất ổn thành cơ hội](3.1-Blog1/)
 
 Bài blog toàn diện này khám phá cách các tổ chức dịch vụ tài chính đang biến đổi khả năng quản lý rủi ro của họ thông qua đổi mới kỹ thuật số trên AWS. Bài viết thảo luận về cách các doanh nghiệp tinh vi di chuyển vượt quá các cách tiếp cận tuân thủ phản ứng để tận dụng các phương pháp dựa trên phân tích.
 
@@ -28,7 +28,7 @@ Bài blog toàn diện này khám phá cách các tổ chức dịch vụ tài c
 
 ---
 
-### [Blog 2 - Tối ưu hóa Hiệu suất Khởi động Lạnh AWS Lambda bằng SnapStart và Chiến lược Priming](3.2-Blog2/)
+### [Blog 2 - Tối ưu hóa Hiệu năng Cold Start của AWS Lambda sử dụng Priming với Snapstart](3.2-Blog2/)
 
 Bài viết kỹ thuật sâu sắc này khám phá các kỹ thuật tối ưu hóa hiệu suất nâng cao cho các hàm AWS Lambda, đặc biệt là cho các ứng dụng serverless nhạy cảm về độ trễ. Bài blog minh họa cách đạt được thời gian khởi động dưới một giây cho các ứng dụng Spring Boot chạy trên Lambda.
 
@@ -45,7 +45,7 @@ Bài viết kỹ thuật sâu sắc này khám phá các kỹ thuật tối ưu 
 
 ---
 
-### [Blog 3 - Giới thiệu Truy cập Nút Just-in-Time bằng AWS Systems Manager](3.3-Blog3/)
+### [Blog 3 - Giới thiệu Just-in-Time Node Access, một tính năng của AWS Systems Manager](3.3-Blog3/)
 
 Bài blog thông báo này giới thiệu một tính năng bảo mật đổi cuộc chơi để quản lý quyền truy cập vào cơ sở hạ tầng EC2, on-premises và multicloud. Truy cập nút just-in-time (JIT) loại bỏ nhu cầu về các thông tin đăng nhập dài hạn đồng thời cho phép phản ứng nhanh chóng khi sự cố xảy ra.
 

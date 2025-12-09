@@ -33,3 +33,5 @@ PATH_TO_ROOT = ""
 | PATH_TO_ROOT | Đường dẫn tải xuống chứng chỉ gốc Amazon của bạn khi bạn tạo phòng |
 
 ## Link video demo
+
+https://www.youtube.com/watch?v=k45jHjkKhuc

@@ -19,7 +19,7 @@ pre: " <b> 1.1. </b> "
 | 5   | - **Cơ bản về Tính toán (EC2):** <br>&emsp; + Khởi chạy một **EC2 Instance** (Linux t2.micro) vào Public Subnet của bạn <br>&emsp; + Kết nối tới instance sử dụng Instance Connect hoặc SSH | 09/11/2025 | 09/11/2025 | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html> |
 | 6   | - **Cơ bản về Serverless (Lambda):** <br>&emsp; + Tạo một **Lambda Function** "Hello World" đơn giản <br>&emsp; + Kiểm thử (Test) function thủ công trong console | 09/12/2025 | 09/12/2025 | <https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i> <br> <https://docs.aws.amazon.com/lambda/latest/dg/welcome.html> |
 
-### Thành tựu Tuần 1:
+### Kết quả Tuần 1:
 * Đã lập nhóm thành công và xem lại các giao thức của workshop.
 * Đã bảo mật AWS Root User với MFA và thiết lập cảnh báo thanh toán (billing alerts).
 * Đã xây dựng một mạng nền tảng (VPC) từ đầu.

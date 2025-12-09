@@ -168,7 +168,7 @@ Xây dựng một giải pháp observability hoàn chỉnh:
 
 **Lộ trình sự nghiệp DevOps:** Lộ trình chứng chỉ AWS (Developer Associate, Solutions Architect Pro, DevOps Professional)
 
-## Suy tư cá nhân
+## SUY NGHĨ CÁ NHÂN
 
 ### Những gì tôi đã học
 
